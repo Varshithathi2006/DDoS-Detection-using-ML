@@ -1,0 +1,2 @@
+victim_ip,start_time,current_duration,blocked_sources,last_activity,current_intensity
+10.0.0.1,2025-04-10 21:53:33.976342,23.532869,638,2025-04-10 21:53:57.360154,317
